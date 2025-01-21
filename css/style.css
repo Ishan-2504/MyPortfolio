@@ -79,7 +79,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/blob/main/images/home.png') no-repeat;
+    background: url('../images/home.png') no-repeat;
     background-size: contain;
     background-position: right center;
 }
